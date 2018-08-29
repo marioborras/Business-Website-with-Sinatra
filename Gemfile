@@ -5,3 +5,4 @@
  gem 'haml'
  gem 'activerecord'
  gem 'rainbow'
+ gem 'sendgrid-ruby'
