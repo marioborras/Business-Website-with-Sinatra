@@ -1,3 +1,4 @@
+//still working on this feature
 $(document).ready(function(){
     $(".fancybox").fancybox({
           openEffect: "none",
